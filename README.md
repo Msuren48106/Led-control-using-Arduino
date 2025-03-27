@@ -1,3 +1,7 @@
+### M>SUREN.
+### 212223230222
+
+
 # Led-control-using-Arduino
 
 ## AIM
@@ -59,8 +63,15 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![Screenshot 2025-03-27 144316](https://github.com/user-attachments/assets/2befa087-44dd-4c35-8f6e-4c12645548d3)
+
 ## PROGRAM
+
+![Screenshot 2025-03-27 144120](https://github.com/user-attachments/assets/723f8191-b533-49e2-9636-9cc8d801fef6)
 
 ## OUTPUT
 
+![Screenshot 2025-03-27 143936](https://github.com/user-attachments/assets/14585611-1403-4d74-a27d-989e4497bba9)
+
 ## RESULT
+Thus Designed and Implemented a system for LED control using an Arduino microcontroller and a push button.
