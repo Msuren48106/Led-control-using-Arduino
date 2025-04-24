@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+### NAME :  M.SUREN
+### REG NO : 212223230222
+# EX 1-Led control using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
